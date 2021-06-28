@@ -13,7 +13,8 @@ function del() {
 }
 
 $("h2").fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300)
-.fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300);
+.fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300).fadeIn(1300).fadeOut(1300)
+.fadeIn(1300).fadeOut(1300).fadeIn(1300);
 
 $("h2").css("text-align", "center");
-$("h3").slideUp(3000);
+$("h3").slideUp(3100);
